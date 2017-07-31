@@ -1,0 +1,10 @@
+environment: production
+
+# MyAmaysim Login Page
+amaysim_login: https://accounts.amaysim.com.au/identity/login
+amaysim_username: 0468827174
+amaysim_password: theHoff34
+amaysim_divert_number: '0412345678'
+
+amaysim_dashboard: https://www.amaysim.com.au/my-account/my-amaysim/dashboards
+amaysim_settings: https://www.amaysim.com.au/my-account/my-amaysim/settings
